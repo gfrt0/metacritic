@@ -8,11 +8,11 @@
 The web-scraped tables come from [Metacritic](http://www.metacritic.com/browse/albums/release-date/available/metascore?page=1). The code extracts information from each table-page (200~ albums in each page) by first scraping their content through rvest and then making use of regularities in the spacing to separate album information. 
 
 For each album, the generated dataset should contain (where available):
-    * Artist
-    * Title
-    * Metascore
-    * Release Date
-    * User Score
+* Artist
+* Title
+* Metascore
+* Release Date
+* User Score
  
 
 ## Limitations
