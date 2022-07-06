@@ -19,7 +19,7 @@ For each record, the final dataset contains (where available):
  
 
 ## Limitations
-The code currently does not differentiate between EPs, LPs etc., which would be nice. Also, the plan is to add more information about each album (e.g. recording label). I also wouldn'y mind adding scores by theneedledrop, as recorded in [this Google sheet](https://docs.google.com/spreadsheets/d/1GbGyWVtePH8RZCZd7N3RPDh8m-K6hgO6AyKsAHZpbeQ/edit#gid=0), to compare Anthony's marks with thosee of major publications.
+The code currently does not differentiate between EPs, LPs etc., which would be nice. Also, more information about each record could be added (e.g. recording label). I also wouldn't mind adding scores by theneedledrop, as recorded in [this Google sheet](https://docs.google.com/spreadsheets/d/1GbGyWVtePH8RZCZd7N3RPDh8m-K6hgO6AyKsAHZpbeQ/edit#gid=0), to compare Anthony's marks with thosee of major publications.
 
 ## Motivation 
 This is another small project I worked on to teach myself a bit of R and get into web-scraping. It was motivated by a [video](https://www.youtube.com/watch?v=wOqrhG2DTe8) on the theneedledrop channel discussing a [WSJ article](https://www.wsj.com/articles/what-happened-to-the-negative-music-review-1502535600?mg=prod/accounts-wsj) on the decline of negative reviews.
